@@ -153,9 +153,7 @@ This Jupyter notebook builds and evaluates ML models to **predict churn**, enabl
 
 #### 🏗️ Model Building:
 - Implemented:
-  - **Decision Tree Classifier**
   - **Random Forest Classifier**
-  - **XGBoost Classifier**
 
 #### 📊 Model Evaluation:
 - **Accuracy Score**
