@@ -8,9 +8,7 @@ This solution covers:
 - **Dashboarding** in **Power BI**
 - **Exploratory Data Analysis (EDA)** using Python
 - **Predictive Modeling** using:
-  1. **XGBoost Classifier**
-  2. **Random Forest Classifier**
-  3. **Decision Tree Classifier**
+  1. **Random Forest Classifier**
 
 ---
 
@@ -55,7 +53,7 @@ This solution covers:
 | **Database**      | Microsoft SQL Server                                   |
 | **Data Analysis** | Python (`pandas`, `matplotlib`, `seaborn`)             |
 | **Dashboarding**  | Power BI                                               |
-| **ML Modeling**   | `scikit-learn`, `xgboost`, `imbalanced-learn`, `pickle` |
+| **ML Modeling**   | `scikit-learn`, `imbalanced-learn`, `pickle` |
 | **Notebook**      | Jupyter Notebook                                       |
 
 ---
